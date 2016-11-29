@@ -1,0 +1,10 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+metallica:
+  name: "Metallica"
+
+pearl_jam:
+  name: "Pearl Jam"
+  
+nirvana: 
+  name: "Nirvana"

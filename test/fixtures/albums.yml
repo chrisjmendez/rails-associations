@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+black_album:
+  title: "Black Album"
+  artist: metallica
+
+load:
+  title: "Load"
+  artist: metallica
+
+vitology:
+  title: "Vitology"
+  artist: pearl_jam
+
+nervermind: 
+  title: "Nevermind"
+  artist: nirvana

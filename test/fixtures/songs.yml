@@ -1,0 +1,41 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+enter_sandman:
+  title: "Enter Sandman"
+  duration: "03:00"
+  trackable: black_album_01 (Track)
+
+enter_sandman:
+  title: "Enter Sandman"
+  duration: "03:00"
+  trackable: metallica (Artist)
+
+
+two:
+  title: "Sad But True"
+  duration: "02:22"
+  trackable: black_album_02 (Track)
+
+three:
+  title: "Holier Than Thou"
+  duration: "02:23"
+  trackable: three
+  trackable_type: Trackable
+
+four:
+  title: "King Nothing"
+  duration: "02:21"
+  trackable: one
+  trackable_type: Trackable
+
+five:
+  title: "Smells Like Teen Spirit"
+  duration: "02:20"
+  trackable: one
+  trackable_type: Trackable
+
+six:
+  title: "Spin the Black Circle"
+  duration: "02:45"
+  trackable: one
+  trackable_type: Trackable

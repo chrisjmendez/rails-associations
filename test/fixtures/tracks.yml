@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+black_album_01:
+  number: 1
+  album: black_album
+
+black_album_02:
+  number: 2
+  album: black_album
+
+black_album_03:
+  number: 3
+  album: black_album
+
+black_album_04:
+  number: 4
+  album: black_album
+
+vitology_01: 
+  number: 1
+  album: vitology
+
+vitology_02:
+  number: 2
+  album: vitology
+
+nevermind_01:
+  number: 1
+  album: nevermind
