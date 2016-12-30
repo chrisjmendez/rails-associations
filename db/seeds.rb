@@ -41,6 +41,7 @@ Entry.new("Metallica", "Black Album", 1, "Enter Sandman", "05:32")
 Entry.new("Metallica", "Black Album", 2, "Sad But True", "05:25")
 Entry.new("Metallica", "Black Album", 4, "The Unforgiven", "06:27")
 Entry.new("Metallica", "S&M", 18, "Sad But True", "05:46")
+Entry.new("Metallica", "S&M", 20, "Enter Sandman", "05:32")
 
 Entry.new("No Doubt", "Tragic Kingdom", 2, "Excuse Me Mr.", "03:06")
 Entry.new("No Doubt", "Tragic Kingdom", 4, "Happy Now", "03:44")

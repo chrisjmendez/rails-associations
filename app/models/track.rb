@@ -5,4 +5,7 @@ class Track < ApplicationRecord
   
   validates :order, presence: true
 
+  Duration.new(:hours => 5, :minutes => 70) => #<Duration: hours=6, minutes=10, total=22200>
+  
+  
 end

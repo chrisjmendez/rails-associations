@@ -9,6 +9,7 @@ gem 'pg'
 gem 'puma', '~> 3.0'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
+
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
@@ -97,3 +98,10 @@ gem 'bcrypt'
 # ###
 
 gem 'simple_form'
+
+# ###
+# App Specific
+# ###
+
+gem 'ruby-duration', '~> 3.2.1'
+gem 'timecode', '~> 2.1'

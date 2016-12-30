@@ -129,7 +129,7 @@ namespace :app do
   task app_logic: :environment do
     sh %{ rails g model Artist name:string }
     sh %{ rails g model Album title:string artist:belongs_to }
-    sh %{ rails g model Track album:belongs_to artist:belongs_to order:integer }
+    sh %{ rails g model Track album:belongs_to artist:belongs_to order:integer duration:integer }
     sh %{ rails g model Song track:belongs_to album:belongs_to artist:belongs_to title:string }
   end
   
