@@ -104,4 +104,4 @@ gem 'simple_form'
 # ###
 
 gem 'ruby-duration', '~> 3.2.1'
-gem 'timecode', '~> 2.1'
+gem 'timecode'
